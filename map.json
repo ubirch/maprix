@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jamboard.google.com\/d\/1EufXMWeJL4tUNxGMYSXqQ4VfGz5YaydVdNhhhjOjXGc\/viewer?f=0"
+                 "value":"https:\/\/jamboard.google.com\/d\/1EufXMWeJL4tUNxGMYSXqQ4VfGz5YaydVdNhhhjOjXGc\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
