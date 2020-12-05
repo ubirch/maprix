@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/garden.json"
+                 "value":"\/ubirch\/workadventure_map\/master\/garden.json"
                 }],
          "type":"tilelayer",
          "visible":true,
