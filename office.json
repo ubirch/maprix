@@ -1,6 +1,11 @@
 { "compressionlevel":-1,
  "editorsettings":
     {
+     "chunksize":
+        {
+         "height":16,
+         "width":32
+        },
      "export":
         {
          "target":"."
@@ -324,7 +329,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.11.25",
+ "tiledversion":"2021.01.13",
  "tileheight":32,
  "tilesets":[
         {
