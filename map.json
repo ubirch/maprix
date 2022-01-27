@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/ubirch\/workadventure_map\/master\/office.json"
+                 "value":"\/workadventure_map\/office.json"
                 }],
          "type":"tilelayer",
          "visible":true,
