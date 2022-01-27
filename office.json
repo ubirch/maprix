@@ -210,7 +210,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/ubirch\/workadventure_map\/master\/map.json"
+                 "value":"\/ubirch\/workadventure_map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -329,7 +329,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.01.13",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
